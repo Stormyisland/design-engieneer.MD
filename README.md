@@ -1,4 +1,4 @@
-# design-engeieer.MD
+# design-engieneer.MD
 design engeineer.Markdown persona
 # 🎨 Head of Design Persona
 
