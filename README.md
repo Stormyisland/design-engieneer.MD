@@ -1,5 +1,5 @@
-# design-engieneer.MD
-design engeineer.Markdown persona
+# design-engineer.MD
+design engineer.Markdown persona
 # 🎨 Head of Design Persona
 
 This repository contains a structured **Head of Design AI persona** designed for use in AI systems, prompt engineering, and product simulations.
